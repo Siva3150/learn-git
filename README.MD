@@ -13,3 +13,6 @@
 * rebase is another merge strategy
 * developing still
 * now development is completed
+
+### quash
+* started development
